@@ -12,6 +12,25 @@
       <svg-icon name="graph-colour"></svg-icon>
       <svg-icon name="a-ok-colour"></svg-icon>
       <svg-icon name="handshake-colour"></svg-icon>
+      <!-- Works from Undraw -->
+      <svg-icon name="translation"></svg-icon>
+      <svg-icon name="programming1"></svg-icon>
+      <svg-icon name="programming2"></svg-icon>
+      <svg-icon name="transporting"></svg-icon>
+      <svg-icon name="planning"></svg-icon>
+      <svg-icon name="management"></svg-icon>
+      <svg-icon name="everyday"></svg-icon>
+      <svg-icon name="importsExports"></svg-icon>
+      <svg-icon name="informatics"></svg-icon>
+      <svg-icon name="managing"></svg-icon>
+      <svg-icon name="translating"></svg-icon>
+      <svg-icon name="forwarding"></svg-icon>
+      <svg-icon name="log"></svg-icon>
+      <svg-icon name="logooooo"></svg-icon>
+      <svg-icon name="logoooo"></svg-icon>
+      <svg-icon name="logooo"></svg-icon>
+      <svg-icon name="logoo"></svg-icon>
+      <svg-icon name="logo"></svg-icon>
       <v-card>
         <v-card-title class="headline"
           >Welcome to the Vuetify + Nuxt.js template</v-card-title
